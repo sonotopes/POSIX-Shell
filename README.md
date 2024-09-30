@@ -1,4 +1,4 @@
-# Posix-Shell
+# POSIX-Shell
 Command line shell implemented in C with POSIX functionality. Developed using the UNIX API. 
 
 Functionality includes signal handling, I/O redirection, cd, unset, exit, and more. 
