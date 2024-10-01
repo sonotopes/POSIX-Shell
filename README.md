@@ -1,5 +1,5 @@
 # POSIX-Shell
-Command line shell implemented in C with POSIX functionality. Developed using the UNIX API. 
+Command line shell implemented in C according to POSIX standards. Developed using the UNIX API. 
 
 Functionality includes signal handling, I/O redirection, cd, unset, exit, and more. 
 Job handling is established using simple foreground and background commands. Shell also includes the feature to use filename redirection operands. Pipelining is also established. 
